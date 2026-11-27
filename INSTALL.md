@@ -6,7 +6,7 @@
 
 ## 1. Clone & Configure
 ```bash
-git clone [https://github.com/xlixyly/sis-project.git](https://github.com/xlixyly/sis-project.git)
+git clone https://github.com/xlixyly/sis-project.git
 cd sis-project && git checkout develop
 cp .env.example .env
 ```
